@@ -54,11 +54,11 @@ This indicates that a single global metric may not capture the spatial structure
 
 | Original Image | Registration Result |
 | ----- | ----- |
-|  |  |
+| ![Original](original_image.png) | ![Result](registration_result.png) |
 
 | Error Map | Control Points |
 | ----- | ----- |
-|  |  |
+| ![Error](error_map.png) | ![Points](control_points.png) |
 
 ---
 
